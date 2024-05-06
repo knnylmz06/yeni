@@ -1,2 +1,3 @@
 kod oluştur
 kod tamam
+knn kod yazdi
